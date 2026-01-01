@@ -112,7 +112,7 @@ Advanced KPI and performance metrics
 
 👩‍💻 Author
 Komal Narawade
-📧 Email: knarawade4@gmail.com
+📧 Email: komalnarawadeg18sql.powerbi@gmail.com
 💼 GitHub: https://github.com/komaln955
 
 ⭐ Conclusion

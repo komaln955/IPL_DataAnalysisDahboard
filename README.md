@@ -1,4 +1,3 @@
-# IPL_DataAnalysisDahboard
 # 🏏 IPL Data Analysis Dashboard (2008–2025)
 
 ## 👋 Hi, I'm Komal Narawade  
